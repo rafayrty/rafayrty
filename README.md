@@ -2,8 +2,8 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@rafayrty-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rafayrty)](https://twitter.com/rafayrty) [![Linkedin Badge](https://img.shields.io/badge/-abdulrafay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-rafay-965742173/)](https://www.linkedin.com/in/abdul-rafay-965742173/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@rafayrty-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rafayrty)](https://twitter.com/rafayrty) [![Linkedin Badge](https://img.shields.io/badge/-abdulrafay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-rafay-965742173/)](https://www.linkedin.com/in/abdul-rafay-965742173/) 
+[![Gmail Badge](https://img.shields.io/badge/-abdulrafayrty@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdulrafayrty@gmail.com)](mailto:abdulrafayrty@gmail.com)
 
 I am Abdul Rafay a 19 Y/O FullStack Developer😃. I am from Islamabad, Pakistan and currently doing my BS Computer Science from PIEAS, Islamabad 🕌. I love to explore and learn about computer things.
 ## ⚡ Technologies
