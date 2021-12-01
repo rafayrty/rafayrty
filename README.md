@@ -20,15 +20,4 @@ Talk to me about:
 - 💬 Ask me about anything an everything.
 - 🔔 Subscribe:- [Abdul Rafay](https://www.youtube.com/channel/UCMIJqDasO3z_r98bjO726pQ).
 - ⚡ Fun fact: Github Is written on Ruby On Rails.
-<p>
-   .===========.        
-   |   |       |        
-   |  /|\      |        
-   | /a|d\     |        
-   |___________|        
-   |_________-_|_,-.    
-  [_____________]   )   
-  .,,,,,,,,,, ,,.  (_   
- /,,,,,,,,,,, ,,,\ (>`\ 
-(______.-``-._____) \__)
-   </p>
+
