@@ -14,9 +14,8 @@ Talk to me about:
 - Learning about Artifical Intelligence and Machine Learning.
 - Robust full-stack system design implementation.
 - Working With Multilingual Websites.
-- Desktop application development using **Electron.js** (Still learning).
 - Mobile application development using **Ionic and React-Native**.
-- Google Cloud Platfrom, **Devops & Docker**.
+- Google Cloud Platfrom, AWS ,**Devops**.
 ## Hey There!! 🤔
 - 💬 Ask me about anything an everything.
 - 🔔 Subscribe:- [Abdul Rafay](https://www.youtube.com/channel/UCMIJqDasO3z_r98bjO726pQ).
