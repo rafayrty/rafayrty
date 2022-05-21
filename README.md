@@ -10,7 +10,8 @@ I am Abdul Rafay a FullStack Developer😃. I am from Islamabad,Pakistan 🕌, B
 Talk to me about:
 - Front-end development using **React, Javascript, CSS, Tailwind, SCSS,, Vue, Nuxt, Angular, Ionic, Pug**.
 - Building a **Creative**, Artistic and Interactive Web Using The Features offered By Web 3.0.
-- Backend development using **Laravel, Wordpress,Codeigniter Node.js**.
+- Backend development using **Laravel, Wordpress,Codeigniter,Node.js,Express.js**.
+- **Strapi,Wordpress** & **Headless CMS**. 
 - Learning about Artifical Intelligence and Machine Learning.
 - Robust full-stack system design implementation.
 - Working With Multilingual Websites.
