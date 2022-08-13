@@ -22,5 +22,5 @@ Talk to me about:
 ## Hey There!! 🤔
 - 💬 Ask me about anything an everything.
 - 🔔 Subscribe:- [Abdul Rafay](https://www.youtube.com/channel/UCMIJqDasO3z_r98bjO726pQ).
-- ⚡ Fun fact: Github Is written on Ruby On Rails.
+- ⚡ My Goto Device: M1 Air Macbook
 
