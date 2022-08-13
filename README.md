@@ -8,13 +8,15 @@
 I am Abdul Rafay a FullStack Developer😃. I am from Islamabad,Pakistan 🕌, Built My First site at the Age of *8*. I love to explore and learn about computer things. Currently Working as a *Software Developer* For Carder.app
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **React, Javascript, CSS, Tailwind, SCSS,, Vue, Nuxt, Angular, Ionic, Pug**.
+- Front-end development using **React,Next.js, CSS, Tailwind, SCSS, Vue, Nuxt, Angular, Ionic, Pug**.
+- Typescript! Typescript! Typescript😍.
 - Building a **Creative**, Artistic and Interactive Web Using The Features offered By Web 3.0.
+- The Insides of V8,Node.js & PHP.
 - Backend development using **Laravel, Wordpress,Codeigniter,Node.js,Express.js**.
 - **Strapi,Wordpress** & **Headless CMS**. 
 - Learning about Artifical Intelligence and Machine Learning.
 - Robust full-stack system design implementation.
-- Working With Multilingual Websites.
+- Tinkering With i18n Websites.
 - Mobile application development using **Ionic and React-Native**.
 - Google Cloud Platfrom, AWS ,**Devops**.
 ## Hey There!! 🤔
